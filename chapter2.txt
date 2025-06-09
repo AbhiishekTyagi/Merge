@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-My name is Radha Dasa Abhishek Tyagi. 
-=======
-My name is Abhishek Tyagi.
-I am from Chhapar.
->>>>>>> master
+I am in main branch.
